@@ -4,4 +4,4 @@
 
 | Project | Description | Status/Score | Repo |
 |---|---|---|---|
-| Libft | Reimplementation of libc functions | – | [42-libft](https://github.com/<meeso0219>/42cursus-libft) |
+| Libft | Reimplementation of libc functions | – | [42-libft](https://github.com/meeso0219/42cursus-libft) |
